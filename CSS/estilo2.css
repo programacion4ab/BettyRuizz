@@ -1,0 +1,60 @@
+@font-face {
+	font-family:Marseline;
+	src:url(../fonts/Marseline.ttf);
+}
+h1{
+	font-family:"Marseline";
+	color:black;
+	font-size: 40px;  
+}
+h2{
+    font-family: "Arial";
+    font-size: 33px;
+    color:#C71585;
+}
+h3{
+font-family: "Arial";
+font-size: 20px;
+color:#FF1493;
+text-align: left;
+}
+h5{
+    font-family: "Arial";
+    font-size: 20px;
+    color:#000000;
+    font-style: "normal";
+    text-align: "justify";  
+}
+header{
+    background-color:#FFB6C1;
+    padding: 25px;
+    font-size: 25px;
+    font-family: "Century Gothic";
+    text-align: center;
+}
+.imagen{
+    float:left;
+}
+.img{
+    float: left;
+}
+section{
+     float:left;
+     max-width: 95%;
+     font-family: "Arial";
+     font-size: 20px;
+     color:#000000;
+     text-align:right;
+     padding-left: 35px;
+}
+article{
+	padding-bottom: 20px;
+	text-align:justify; 
+}
+footer{
+clear:both;
+background-image: url(../img/pastel.jpg);
+text-align: center;
+padding: 20px;
+
+

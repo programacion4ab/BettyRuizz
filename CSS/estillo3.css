@@ -1,0 +1,47 @@
+header{
+	background-image: url(../img/back5.jpg);
+	text-align: center;
+	padding: 25px;
+}
+h1{
+	font-family:"Marseline";
+	text-align: center;
+	color:red;
+	background-color: #E6E6FA;
+	font-size: 40px; 
+}
+h2{
+    font-family:"Marseline";
+    text-align: center;
+	color:red;
+    background-color: #E6E6FA;
+	font-size: 40px; 
+}
+h3{
+  font-family:"Marseline";
+  color:#800000;
+  font-size: 20px; 
+  text-align: justify;
+}
+h4{
+  font-family:"Marseline";
+	color:#800000;
+	font-size: 20px;
+}
+h5{
+    color:#A9A9A9;
+	font-size: 20px;
+	font-family: 25px;
+}
+.mundo{
+	text-align: center;
+}
+footer{
+	background-color: pink;
+	padding: 40px;
+	text-align: center;
+}
+figure{
+	padding: 20px;
+	text-align: center;
+}

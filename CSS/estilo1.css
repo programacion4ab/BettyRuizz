@@ -1,0 +1,51 @@
+@font-face{
+	font-family: Marsheline;
+	src:url(../Marsheline.ttf);
+}
+h1{
+	font-family: Marsheline;
+	color:white;
+	font-size: 50px;
+}
+h2{
+	font-family: Marsheline;
+	color:blue;
+	font-size: 45px;
+}
+h3{
+	font-family: arial;
+     font-size: 25px;
+}
+h4{
+	font-family: Bell MT;
+	font-size: 25px;
+	text-align: justify;
+}
+h5{
+	font-family: Century;
+	font-size: 25px;
+}
+h6{
+	font-family: Elephant;
+	font-size: 20px;
+	text-align: center;
+}
+header{
+	background-color:#71DCE5;
+	padding: 40px;
+	font-size: 18px;
+	font-family: Arial;
+	text-align: center;
+}
+#img1{
+	padding-left: 45%;
+	padding-right: 45%;
+}
+footer{
+	clear:both;
+	background-color:#71DCE5;
+	padding: 30px;
+	font-size: 18px;
+	font-family: Arial;
+	text-align: center;
+}
